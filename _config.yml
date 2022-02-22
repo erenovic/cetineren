@@ -81,7 +81,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
+  - title: Publications
     layout: list
     content:
       - layout: right
@@ -97,9 +97,18 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Koç University / Istanbul, Turkey
+        sub_title: BSc Electrical & Electronics Engineering
+        caption: 2017 - 2022
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+    content:
+      - layout: top-right
+        title: Koç University / Istanbul, Turkey
+        sub_title: BA Economics (Double Major)
+        caption: 2017 - 2022
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
