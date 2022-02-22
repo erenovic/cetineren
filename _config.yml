@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am currently a senior in Electrical & Electronics Engineering with a double major in Economics at Koç University. 
   My professional interests are in machine learning, image/video processing, computer vision and optimization.
   
-  > Some quote
+  > “Never confuse education with intelligence, you can have a PhD and still be an idiot.” ― Richard P. Feynman
 
 content:
   - title: Projects # Title for the section
