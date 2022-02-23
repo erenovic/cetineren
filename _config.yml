@@ -76,18 +76,33 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Publications
+  - title: Research Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: KUIS AI Lab
+        sub_title: Undergraduate Research under Professor Murat Tekalp
+        caption: 06.2020 - present
+        link: http://home.ku.edu.tr/~mtekalp/
         quote: >
-          Short description of the company (optional)
+          Research interests of Professor Tekalp captures a wide range of image/video processing applications including 
+          image/video super resolution, compression and restoration. With his vast research experience, Professor Tekalp helped me
+          broaden my knowledge on above mentioned tasks and guided me through our research.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          During my undergraduate research, I have worked on image and video compression using recurrent and fully convolutional variational 
+          auto-encoders. My projects included our work on the design of a novel bidirectional frame compression network and 
+          several implementation of recent works in the literature using PyTorch machine learning framework.
+      - layout: right
+        title: KUSRP
+        sub_title: Summer Research under Professor Aykut Erdem
+        caption: 06.2021 - 09.2021
+        link: https://aykuterdem.github.io/
+        quote: >
+          Professor Erdem conducts research on a diverse set of topics, ranging from image editing to visual saliency estimation, 
+          and to multimodal learning for integrated vision and language.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Koç University Summer Research Program (KUSRP), I studied style transfer and image manipulation with generative
+          adversarial networks. Worked on implementation of “Swapping Autoencoder for Deep Image Manipulation” by Park et al. (2020).
   - title: Education
     layout: list
     content:
