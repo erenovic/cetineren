@@ -79,7 +79,7 @@ content:
   - title: Research Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: KUIS AI Lab
         sub_title: Undergraduate Research under Professor Murat Tekalp
         caption: 06.2020 - present
@@ -92,7 +92,7 @@ content:
           During my undergraduate research, I have worked on image and video compression using recurrent and fully convolutional variational 
           auto-encoders. My projects included our work on the design of a novel bidirectional frame compression network and 
           several implementation of recent works in the literature using PyTorch machine learning framework.
-      - layout: right
+      - layout: left
         title: KUSRP
         sub_title: Summer Research under Professor Aykut Erdem
         caption: 06.2021 - 09.2021
@@ -115,6 +115,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
       - layout: left
+        title: Koç University
         sub_title: BA Economics (Double Major)
         caption: 2017 - 2022
         description: | # this will include new lines to allow paragraphs
