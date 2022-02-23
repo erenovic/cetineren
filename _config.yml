@@ -92,7 +92,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: Koç University / Istanbul, Turkey
+        title: Koç University <br> Istanbul, Turkey
         sub_title: BSc Electrical & Electronics Engineering
         caption: 2017 - 2022
         quote: > 
@@ -100,8 +100,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
           
-      - layout: top-right
-        title: Koç University / Istanbul, Turkey
+      - layout: left
+        title: Koç University <br> Istanbul, Turkey
         sub_title: BA Economics (Double Major)
         caption: 2017 - 2022
         description: | # this will include new lines to allow paragraphs
