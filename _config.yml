@@ -95,8 +95,7 @@ content:
         title: Koç University / Istanbul, Turkey
         sub_title: BSc Electrical & Electronics Engineering
         caption: 2017 - 2022
-        quote: >
-          Koç University is a non-profit private university in Istanbul, Turkey. Founded in 1993, Koç University is one of the most prestigious universities in Turkey.
+        quote: > Koç University is a non-profit private university in Istanbul, Turkey. Founded in 1993, Koç University is one of the most prestigious universities in Turkey.
         description: | # this will include new lines to allow paragraphs
           Description of qualification
           
