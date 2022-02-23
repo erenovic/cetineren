@@ -107,7 +107,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: Koç University <br> Istanbul, Turkey
+        title: Koç University
         sub_title: BSc Electrical & Electronics Engineering
         caption: 2017 - 2022
         quote: > 
