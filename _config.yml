@@ -60,7 +60,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Project name
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -92,8 +92,6 @@ content:
     layout: list
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
         title: Koç University <br> Istanbul, Turkey
         sub_title: BSc Electrical & Electronics Engineering
         caption: 2017 - 2022
@@ -101,7 +99,6 @@ content:
           Koç University is a non-profit private university in Istanbul, Turkey. Founded in 1993, Koç University is one of the most prestigious universities in Turkey.
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-          
       - layout: left
         sub_title: BA Economics (Double Major)
         caption: 2017 - 2022
