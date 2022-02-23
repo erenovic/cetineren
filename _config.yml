@@ -54,8 +54,6 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am currently a senior in Electrical & Electronics Engineering with a double major in Economics at Koç University. 
   My professional interests are in machine learning, image/video processing, computer vision and optimization.
-  
-  > *“Never confuse education with intelligence, you can have a PhD and still be an idiot.”* ― *Richard P. Feynman*
 
 content:
   - title: Projects # Title for the section
@@ -116,6 +114,8 @@ content:
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      
+      > *“Never confuse education with intelligence, you can have a PhD and still be an idiot.”* ― *Richard P. Feynman*
 
 # Footer
 footer_show_references: true
