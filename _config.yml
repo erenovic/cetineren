@@ -92,6 +92,8 @@ content:
     layout: list
     content:
       - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: Koç University <br> Istanbul, Turkey
         sub_title: BSc Electrical & Electronics Engineering
         caption: 2017 - 2022
