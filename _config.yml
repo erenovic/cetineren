@@ -6,7 +6,7 @@ repository: erenovic/cetineren # Git repository where your resume will be hosted
 version: 2
 
 # Personal info
-name: Eren (Çetin) Cetin
+name: Eren Cetin
 title: Undergraduate Research Assistant
 email: ecetin17 [at] ku.edu.tr
 # email_title: Email (Email title override)
