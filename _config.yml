@@ -36,7 +36,7 @@ googlescholar_username: D847cGsAAAAJ
 # Additional icon links
 additional_links:
 - title: Link name
-  icon: fa-solid fa-file
+  icon: fas fa-file
   url: https://docs.google.com/viewerng/viewer?url=https://github.com/erenovic/cetineren/raw/master/assets/Cetin-Eren-Resume.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
