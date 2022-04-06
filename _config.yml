@@ -207,9 +207,8 @@ content:
       > *“The learned man knows that he is ignorant.”* ― *Victor Hugo*
 
 # Footer
-footer_show_references: true
-references_title: Thanks to [sproogen](https://github.com/sproogen/modern-resume-theme) 
-for this perfect resume theme
+footer_show_references: false
+# references_title: Thanks to [sproogen](https://github.com/sproogen/modern-resume-theme) for this perfect resume theme
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
