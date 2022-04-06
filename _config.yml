@@ -66,16 +66,13 @@ content:
       - layout: left
         # border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: Flexible-Rate Bidirectional Video Compression with Motion Refinement
+        link: https://drive.google.com/file/d/1EPeK4Fpj-0r8shqzkSkJuaVayt2f4GvD/view?usp=sharing
+        link_text: Thesis Paper
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/erenovic/Bidirectional-Video-Compression-with-Motion-Refinement
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
