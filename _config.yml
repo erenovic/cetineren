@@ -52,20 +52,19 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am currently a senior in Electrical & Electronics Engineering with a double major in Economics at Koç University. 
-  My professional interests are in <mark>machine learning</mark>, <mark>image/video processing</mark>, <mark>computer vision</mark>, 
-  and <mark>optimization</mark>.
+  I am currently a senior in Electrical & Electronics Engineering with a double major in Economics 
+  at Koç University. My professional interests are in <mark>machine learning</mark>, 
+  <mark>image/video processing</mark>, <mark>computer vision</mark>, and <mark>optimization</mark>.
   <br><br><br>
-  For most of my research and education, I had my hands dirty on frameworks, languages and tools such as <mark>Python</mark>, 
-  <mark>MATLAB</mark>, <mark>PyTorch</mark>, <mark>C/C++</mark>, <mark>Slurm</mark> and <mark>LaTeX</mark>.
-
+  For most of my research and education, I had my hands dirty on frameworks, languages and tools 
+  such as <mark>Python</mark>, <mark>MATLAB</mark>, <mark>PyTorch</mark>, <mark>C/C++</mark>, 
+  <mark>Slurm</mark> and <mark>LaTeX</mark>.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-
       - layout: left
-        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Learned Bidirectional Video Compression Framework
         link: https://drive.google.com/file/d/1EPeK4Fpj-0r8shqzkSkJuaVayt2f4GvD/view?usp=sharing
@@ -80,9 +79,8 @@ content:
           Built a learned hierarchical bidirectional video compression model that utilizes 
           motion predictions and allows achievement of multiple rate-distortion tradeoffs 
           using single motion compression network with varying intra-frame coding networks.
-
       - layout: left
-        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Multi-rate Learned Image Compression
         link: https://openaccess.thecvf.com/content/CVPR2021/html/Cui_Asymmetric_Gained_Deep_Image_Compression_With_Continuous_Rate_Adaptation_CVPR_2021_paper.html
@@ -103,37 +101,39 @@ content:
   - title: Research Experience
     layout: list
     content:
-
       - layout: left
         title: KUIS AI Lab
         sub_title: Undergraduate Research under Professor Murat Tekalp
         caption: 06.2020 - present
         link: http://home.ku.edu.tr/~mtekalp/
         quote: >
-          Research interests of Professor Tekalp captures a wide range of image/video processing applications including 
-          image/video super resolution, compression and restoration. With his vast research experience, Professor Tekalp helped me
-          broaden my knowledge on above mentioned tasks and guided me through our research.
+          Research interests of Professor Tekalp captures a wide range of image/video processing 
+          applications including image/video super resolution, compression and restoration. With 
+          his vast research experience, Professor Tekalp helped me broaden my knowledge on above 
+          mentioned tasks and guided me through our research.
         description: | # this will include new lines to allow paragraphs
-          During my undergraduate research, I have worked on image and video compression using recurrent and fully convolutional variational 
-          auto-encoders. My projects included our work on the design of a novel bidirectional frame compression network and 
-          several implementation of recent works in the literature using PyTorch machine learning framework.
-      
+          During my undergraduate research, I have worked on image and video compression using 
+          recurrent and fully convolutional variational auto-encoders. My projects included our 
+          work on the design of a novel bidirectional frame compression network and several 
+          implementation of recent works in the literature using PyTorch machine learning 
+          framework.
       - layout: left
         title: KUSRP
         sub_title: Summer Research under Professor Aykut Erdem
         caption: 06.2021 - 09.2021
         link: https://aykuterdem.github.io/
         quote: >
-          Professor Erdem conducts research on a diverse set of topics, ranging from image editing to visual saliency estimation, 
-          and to multimodal learning for integrated vision and language.
+          Professor Erdem conducts research on a diverse set of topics, ranging from image editing 
+          to visual saliency estimation, and to multimodal learning for integrated vision and 
+          language.
         description: | # this will include new lines to allow paragraphs
-          During my time at Koç University Summer Research Program (KUSRP), I studied style transfer and image manipulation with generative
-          adversarial networks. Worked on implementation of “Swapping Autoencoder for Deep Image Manipulation” by Park et al. (2020).
-  
+          During my time at Koç University Summer Research Program (KUSRP), I studied style 
+          transfer and image manipulation with generative adversarial networks. Worked on 
+          implementation of “Swapping Autoencoder for Deep Image Manipulation” by Park et al. 
+          (2020).
   - title: Education
     layout: list
     content:
-
       - layout: left
         title: Koç University
         sub_title: BSc Electrical & Electronics Engineering
@@ -148,7 +148,6 @@ content:
           completing specialization courses with merit, I was awarded with track certificate of 
           <mark>artificial intelligence</mark>. My thesis project at EEE department was awarded 
           with the second place after working under supervision of Professor Murat Tekalp.
-      
       - layout: left
         title: Koç University
         sub_title: BA Economics (Double Major)
@@ -159,7 +158,6 @@ content:
           <mark>game theory</mark> and <mark>information & contract theory</mark>. I achieved
           my track certificate in <mark>financial engineering</mark> after completing required courses in
           the program.
-
   - title: Awards
     layout: list
     content:
@@ -167,20 +165,18 @@ content:
         title: Excellence Scholarship (ESOP)
         sub_title: ETH Zurich
         caption: 2022 - 2024
-        description: | # this will include new lines to allow paragraphs
+        description: # this will include new lines to allow paragraphs
           Accepted to the highly competitive Excellence Scholarship and Opportunity Program
           offered by the ETH Zurich Foundation. The award was provided for past academic 
           excellence and promise in future research to approximately 60 students every year.
-      \vspace{-10truemm}
       - layout: left
         title: Second Place in the Bachelor's Thesis Competition
         sub_title: Koç University
         caption: 2022
-        description: | # this will include new lines to allow paragraphs
+        description: # this will include new lines to allow paragraphs
           Second place in the BSc. Thesis Competition in Electrical & 
           Electronics Engineering Department at Koç University with my project on "Flexible-Rate 
           Bidirectional Video Compression with Motion Refinement".
-      \vspace{-10truemm}
       - layout: left
         title: Vehbi Koç Honor Award
         sub_title: Koç University
@@ -189,7 +185,6 @@ content:
           Awarded with the Vehbi Koç Honor Award for achieving excellent records in my 
           semesterly studies at Koç University. The award is given to students with an SPA 
           over 3.50/4.00.
-      \vspace{-10truemm}
       - layout: left
         title: Full-Tuition Scholarship
         sub_title: Koç University
@@ -198,7 +193,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Earned full-tuition scholarship at one of the best universities in Turkey by ranking 
           in the top 0.1% in the National University Entrance Exam among 2.5 million students.
-      
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
