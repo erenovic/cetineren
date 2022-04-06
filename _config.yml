@@ -153,6 +153,25 @@ content:
           <mark>game theory</mark> and <mark>information & contract theory</mark>. I achieved
           my track certificate in <mark>financial engineering</mark> after completing required courses in
           the program.
+  - title: Awards
+    layout: list
+    content:
+      - layout: left
+        title: Koç University Full-Tuition Scholarship
+        sub_title: BSc Scholarship
+        caption: 2017 - 2022
+        # quote: > 
+        description: | # this will include new lines to allow paragraphs
+          Earned full-tuition scholarship at one of the best universities in Turkey by ranking 
+          in the top 0.1% in the National University Entrance Exam among 2.5 million students.
+      - layout: left
+        title: Second Place in the Bachelor's Thesis Competition
+        # sub_title:
+        caption: 2022
+        description: | # this will include new lines to allow paragraphs
+          I was awarded with the second place in the BSc. Thesis Competition in Electrical & 
+          Electronics Engineering Department at Koç University with my project on "Flexible-Rate 
+          Bidirectional Video Compression with Motion Refinement".
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
