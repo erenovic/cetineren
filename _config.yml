@@ -117,11 +117,12 @@ content:
           Koç University is a non-profit private university in Istanbul, Turkey. 
           Founded in 1993, Koç University is one of the most prestigious universities in Turkey.
         description: | # this will include new lines to allow paragraphs
-          My studies in Electrical & Electronics Engineering (EEE) focused mostly on signal processing, 
-          machine learning, artificial intelligence and information theory. After completing several
-          specialization courses with merit, I was awarded with track certificate of 
-          <mark>artificial intelligence</mark>. My thesis project at EEE department was awarded with the
-          second place after working under supervision of Professor Murat Tekalp.
+          My studies in Electrical & Electronics Engineering (EEE) focused mostly on 
+          <mark>signal processing</mark>, <mark>machine learning</mark>, 
+          <mark>artificial intelligence</mark> and <mark>information theory</mark>. After 
+          completing specialization courses with merit, I was awarded with track certificate of 
+          <mark>artificial intelligence</mark>. My thesis project at EEE department was awarded 
+          with the second place after working under supervision of Professor Murat Tekalp.
       - layout: left
         title: Koç University
         sub_title: BA Economics (Double Major)
