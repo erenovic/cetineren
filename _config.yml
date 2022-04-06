@@ -157,26 +157,35 @@ content:
     layout: list
     content:
       - layout: left
+        title: Excellence Scholarship (ESOP)
+        sub_title: ETH Zurich
+        caption: 2022 - 2024
+        description: | # this will include new lines to allow paragraphs
+          Accepted to the highly competitive Excellence Scholarship and Opportunity Program
+          offered by the ETH Zurich Foundation. The award was provided for past academic 
+          excellence and promise in future research to approximately 60 students every year.
+
+      - layout: left
         title: Second Place in the Bachelor's Thesis Competition
-        # sub_title:
+        sub_title: Koç University
         caption: 2022
         description: | # this will include new lines to allow paragraphs
-          I was awarded with the second place in the BSc. Thesis Competition in Electrical & 
+          Second place in the BSc. Thesis Competition in Electrical & 
           Electronics Engineering Department at Koç University with my project on "Flexible-Rate 
           Bidirectional Video Compression with Motion Refinement".
 
       - layout: left
         title: Vehbi Koç Honor Award
-        # sub_title:
-        caption: 2018-2019-2020-2021
+        sub_title: Koç University
+        caption: 2018 - 2019 - 2020 - 2021
         description: | # this will include new lines to allow paragraphs
-          I was awarded with the Vehbi Koç Honor Award for achieving excellent records in my 
+          Awarded with the Vehbi Koç Honor Award for achieving excellent records in my 
           semesterly studies at Koç University. The award is given to students with an SPA 
           over 3.50/4.00.
 
       - layout: left
-        title: Koç University Full-Tuition Scholarship
-        sub_title: BSc Scholarship
+        title: Full-Tuition Scholarship
+        sub_title: Koç University
         caption: 2017 - 2022
         # quote: > 
         description: | # this will include new lines to allow paragraphs
