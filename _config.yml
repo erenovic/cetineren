@@ -66,7 +66,7 @@ content:
       - layout: left
         # border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Flexible-Rate Bidirectional Video Compression with Motion Refinement
+        title: Learned Bidirectional Video Compression Framework
         link: https://drive.google.com/file/d/1EPeK4Fpj-0r8shqzkSkJuaVayt2f4GvD/view?usp=sharing
         link_text: Thesis Paper
         additional_links:
@@ -74,9 +74,11 @@ content:
             icon: fab fa-github
             url: https://github.com/erenovic/Bidirectional-Video-Compression-with-Motion-Refinement
         quote: >
-          Short overview of the project (optional)
+          Flexible-Rate Bidirectional Video Compression with Motion Refinement
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Built a learned hierarchical bidirectional video compression model that utilizes 
+          motion predictions and allows achievement of multiple rate-distortion tradeoffs 
+          using single motion compression network with varying intra-frame coding networks.
   - title: Research Experience
     layout: list
     content:
