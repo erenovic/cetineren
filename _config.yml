@@ -208,7 +208,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: Thanks to [sproogen](https://github.com/sproogen/modern-resume-theme) for this perfect resume theme
+references_title: Thanks to <a href="https://github.com/sproogen/modern-resume-theme">sproogen</a> for this perfect resume theme
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
