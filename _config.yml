@@ -63,6 +63,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    
       - layout: left
         # border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -102,6 +103,7 @@ content:
   - title: Research Experience
     layout: list
     content:
+
       - layout: left
         title: KUIS AI Lab
         sub_title: Undergraduate Research under Professor Murat Tekalp
@@ -115,6 +117,7 @@ content:
           During my undergraduate research, I have worked on image and video compression using recurrent and fully convolutional variational 
           auto-encoders. My projects included our work on the design of a novel bidirectional frame compression network and 
           several implementation of recent works in the literature using PyTorch machine learning framework.
+      
       - layout: left
         title: KUSRP
         sub_title: Summer Research under Professor Aykut Erdem
@@ -126,9 +129,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at Koç University Summer Research Program (KUSRP), I studied style transfer and image manipulation with generative
           adversarial networks. Worked on implementation of “Swapping Autoencoder for Deep Image Manipulation” by Park et al. (2020).
+  
   - title: Education
     layout: list
     content:
+
       - layout: left
         title: Koç University
         sub_title: BSc Electrical & Electronics Engineering
@@ -143,6 +148,7 @@ content:
           completing specialization courses with merit, I was awarded with track certificate of 
           <mark>artificial intelligence</mark>. My thesis project at EEE department was awarded 
           with the second place after working under supervision of Professor Murat Tekalp.
+      
       - layout: left
         title: Koç University
         sub_title: BA Economics (Double Major)
@@ -153,6 +159,7 @@ content:
           <mark>game theory</mark> and <mark>information & contract theory</mark>. I achieved
           my track certificate in <mark>financial engineering</mark> after completing required courses in
           the program.
+
   - title: Awards
     layout: list
     content:
