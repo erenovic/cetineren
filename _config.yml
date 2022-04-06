@@ -64,7 +64,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Learned Bidirectional Video Compression Framework
         link: https://drive.google.com/file/d/1EPeK4Fpj-0r8shqzkSkJuaVayt2f4GvD/view?usp=sharing
@@ -79,8 +79,9 @@ content:
           Built a learned hierarchical bidirectional video compression model that utilizes 
           motion predictions and allows achievement of multiple rate-distortion tradeoffs 
           using single motion compression network with varying intra-frame coding networks.
+
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Multi-rate Learned Image Compression
         link: https://openaccess.thecvf.com/content/CVPR2021/html/Cui_Asymmetric_Gained_Deep_Image_Compression_With_Continuous_Rate_Adaptation_CVPR_2021_paper.html
@@ -101,6 +102,7 @@ content:
   - title: Research Experience
     layout: list
     content:
+
       - layout: left
         title: KUIS AI Lab
         sub_title: Undergraduate Research under Professor Murat Tekalp
@@ -117,6 +119,7 @@ content:
           work on the design of a novel bidirectional frame compression network and several 
           implementation of recent works in the literature using PyTorch machine learning 
           framework.
+      
       - layout: left
         title: KUSRP
         sub_title: Summer Research under Professor Aykut Erdem
@@ -165,7 +168,7 @@ content:
         title: Excellence Scholarship (ESOP)
         sub_title: ETH Zurich
         caption: 2022 - 2024
-        description: # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
           Accepted to the highly competitive Excellence Scholarship and Opportunity Program
           offered by the ETH Zurich Foundation. The award was provided for past academic 
           excellence and promise in future research to approximately 60 students every year.
@@ -173,7 +176,7 @@ content:
         title: Second Place in the Bachelor's Thesis Competition
         sub_title: Koç University
         caption: 2022
-        description: # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
           Second place in the BSc. Thesis Competition in Electrical & 
           Electronics Engineering Department at Koç University with my project on "Flexible-Rate 
           Bidirectional Video Compression with Motion Refinement".
