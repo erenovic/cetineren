@@ -187,8 +187,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Awarded with the Vehbi Koç Honor Award for achieving excellent records in my 
           semesterly studies at Koç University. The award is given to students with an SPA 
-          over 3.50/4.00.
-        \vspace{-5truemm}
+          over 3.50/4.00. \vspace{-5truemm}
       - layout: left
         title: Full-Tuition Scholarship
         sub_title: Koç University
