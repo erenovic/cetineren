@@ -4,3 +4,4 @@
 _site
 *.code-workspace
 vendor
+_config.yml

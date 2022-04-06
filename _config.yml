@@ -79,6 +79,26 @@ content:
           Built a learned hierarchical bidirectional video compression model that utilizes 
           motion predictions and allows achievement of multiple rate-distortion tradeoffs 
           using single motion compression network with varying intra-frame coding networks.
+
+      - layout: left
+        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Multi-rate Learned Image Compression
+        link: https://openaccess.thecvf.com/content/CVPR2021/html/Cui_Asymmetric_Gained_Deep_Image_Compression_With_Continuous_Rate_Adaptation_CVPR_2021_paper.html
+        link_text: Re-implementation of a paper
+        additional_links:
+          - title:  Github page
+            icon: fab fa-github
+            url: https://github.com/erenovic/Flex-Rate-MBT2018
+        quote: >
+          Re-implementation of "Asymmetric Gained Deep Image Compression With Continuous Rate 
+          Adaptation" by Cui et al. (2021)
+        description: | # this will include new lines to allow paragraphs
+          This is a slightly different re-implementation of the work by Cui et al. (2021). 
+          For further detail about the model structure and how multiple rate-distortion 
+          trade-offs are achieved using single model, please refer to the paper. Upto my knowledge, 
+          this is the first unofficial re-implementation of this wonderful work.
+          
   - title: Research Experience
     layout: list
     content:
