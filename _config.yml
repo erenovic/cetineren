@@ -157,14 +157,6 @@ content:
     layout: list
     content:
       - layout: left
-        title: Koç University Full-Tuition Scholarship
-        sub_title: BSc Scholarship
-        caption: 2017 - 2022
-        # quote: > 
-        description: | # this will include new lines to allow paragraphs
-          Earned full-tuition scholarship at one of the best universities in Turkey by ranking 
-          in the top 0.1% in the National University Entrance Exam among 2.5 million students.
-      - layout: left
         title: Second Place in the Bachelor's Thesis Competition
         # sub_title:
         caption: 2022
@@ -172,6 +164,25 @@ content:
           I was awarded with the second place in the BSc. Thesis Competition in Electrical & 
           Electronics Engineering Department at Koç University with my project on "Flexible-Rate 
           Bidirectional Video Compression with Motion Refinement".
+
+      - layout: left
+        title: Vehbi Koç Honor Award
+        # sub_title:
+        caption: 2018-2019-2020-2021
+        description: | # this will include new lines to allow paragraphs
+          I was awarded with the Vehbi Koç Honor Award for achieving excellent records in my 
+          semesterly studies at Koç University. The award is given to students with an SPA 
+          over 3.50/4.00.
+
+      - layout: left
+        title: Koç University Full-Tuition Scholarship
+        sub_title: BSc Scholarship
+        caption: 2017 - 2022
+        # quote: > 
+        description: | # this will include new lines to allow paragraphs
+          Earned full-tuition scholarship at one of the best universities in Turkey by ranking 
+          in the top 0.1% in the National University Entrance Exam among 2.5 million students.
+      
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
