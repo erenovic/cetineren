@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["James Grant"]
   spec.email         = ["sprog31@gmail.com"]
 
-  spec.summary       = "Personal Webpage"
-  spec.homepage      = "https://github.com/erenovic/cetineren"
+  spec.summary       = "A modern simple static resume template and theme. Powered by Jekyll and GitHub pages."
+  spec.homepage      = "https://github.com/sproogen/modern-resume-theme"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
